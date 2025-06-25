@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @srioslc
-- 👀 I’m interested in web and cloud tecnologies
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me srios@latincloud.com
-
-<!---
-srioslc/srioslc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hola, Soy sergio rios, srios en latincloud (@srioslc)
+- 👀 Estoy interesado en tecnologias web y cloud
+- 🌱 Aprendiendo sobre desarrollo web y DevSecOps
+- 📫 Para Contactarme srios@latincloud.com
